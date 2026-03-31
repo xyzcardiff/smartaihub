@@ -1,9 +1,9 @@
 # SmartAIHub
 
-Summarizes meeting transcripts automatically
+Generate images from text prompts
 
 ## 🎯 Inspired By
-Trending topic: **AI Meeting Summarizer**
+Trending topic: **AI Image Generator**
 
 ## 🚀 Features
 - AI-powered core functionality
@@ -11,23 +11,23 @@ Trending topic: **AI Meeting Summarizer**
 - Ready to deploy
 
 ## 🛠 Tech Stack
-- Python
-- Django
-- Whisper API
-- React
+- Node.js
+- Express
+- Replicate API
+- Vue.js
 
 ## 📦 Installation
 
 ```bash
 git clone https://github.com/xyzcardiff/smartaihub.git
 cd smartaihub
-pip install -r requirements.txt
+npm install
 ```
 
 ## 🏃 Running
 
 ```bash
-python app.py
+npm start
 ```
 
 ## 📝 License
@@ -35,4 +35,4 @@ MIT
 
 ---
 *Built automatically by AI Trend App Builder*
-*Date: 2026-03-19*
+*Date: 2026-03-31*
